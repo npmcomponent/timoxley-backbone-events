@@ -1,0 +1,9 @@
+{
+  "name": "timoxley-backbone-events",
+  "description": "Port of Backbone.Events API",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-object": "git://github.com/npmcomponent/component-object.git"
+  }
+}

@@ -1,7 +1,7 @@
 // Backbone.Events
 // -----------------
 
-var object = require('object')
+var object = require('component-object')
 
 // Regular expression used to split event strings
 var eventSplitter = /\s+/;
